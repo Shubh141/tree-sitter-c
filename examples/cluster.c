@@ -28,7 +28,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-#include "server.h"
+//#include "server.h"
 #include "cluster.h"
 #include "endianconv.h"
 
